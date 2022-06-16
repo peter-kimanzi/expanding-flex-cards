@@ -12,7 +12,7 @@ expanding flex cards using JavaScript and JQuery
 
 ## View live site
 
-https://peter-kimanzi.github.io/voyage-slider-gsap/
+https://peter-kimanzi.github.io/expanding-flex-cards/
 
 
 ## Screenshots
