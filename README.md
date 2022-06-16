@@ -3,14 +3,11 @@
 expanding flex cards using JavaScript and JQuery
 
 
-
-
 ## Technologies used
 
 * HTML
 * CSS
 * JavaScript
-* Gsap
 
 ## View live site
 
