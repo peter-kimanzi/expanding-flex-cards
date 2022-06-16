@@ -3,7 +3,6 @@
 expanding flex cards using JavaScript and JQuery
 
 
-voyage slider using gsap library
 
 
 ## Technologies used
