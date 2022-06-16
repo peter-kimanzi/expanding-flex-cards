@@ -17,5 +17,5 @@ https://peter-kimanzi.github.io/expanding-flex-cards/
 
 ## Screenshots
 
-![voyage](https://user-images.githubusercontent.com/71552773/173522212-e82cdd39-55b5-4ad0-8fea-c255fdc096bb.PNG)
+![sli](https://user-images.githubusercontent.com/71552773/174056079-c75ce935-edf0-4efd-bad5-6920e601d1c2.PNG)
 
