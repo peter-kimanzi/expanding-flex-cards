@@ -2,7 +2,6 @@
 
 expanding flex cards using JavaScript and JQuery
 
-# voyage-slider-gsap
 
 voyage slider using gsap library
 
